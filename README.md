@@ -2,6 +2,7 @@
 原标题：The Ardour DAW - Latency Compensation and Anywhere-to-Anywhere Signal Routing Systems  
 原文作者：[Robin Gareus](https://github.com/x42)  
 原文日期：2018/02/11
+[阅读原文](https://gareus.org/misc/thesis-p8/2017-12-Gareus-Lat.pdf)
 
 ## 目录
 
