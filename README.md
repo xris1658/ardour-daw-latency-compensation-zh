@@ -16,3 +16,7 @@
 - 参考资料
 - 表目录
 - 图目录
+
+## 许可
+
+本译文使用 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 许可，与原文保持一致。
