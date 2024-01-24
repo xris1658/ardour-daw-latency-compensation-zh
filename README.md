@@ -9,7 +9,7 @@
 - [摘要](./abstract.md)
 - [第一章 延迟与数字音频详述](./1-on-latency-and-digital-audio.md)
 - [第二章 数字音频的生态系统](./2-the-digital-audio-ecosystem.md)
-- 第三章 结构与基本组件
+- [第三章 结构与基本组件](./3-architecture-and-building-blocks.md)
 - 第四章 延迟补偿
 - 第五章 结语
 - 第六章 附录
